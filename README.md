@@ -1,16 +1,15 @@
-### Hi there 👋
+### Halo bro 👋 
 
-<!--
-**StevanKz/StevanKz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  🐙 **Github Stats**
 
-Here are some ideas to get you started:
+[![github stats](https://github-readme-stats.vercel.app/api?username=stevankz&show_icons=true&theme=radical)](https://github.com/stevankz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub followers](https://img.shields.io/github/followers/stevankz?color=aqua&label=Followers&style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/stevankz?affiliations=OWNER&color=aqua&style=for-the-badge)
+
+
+
+**Contact Me:**
+![Telegram Badge](https://img.shields.io/badge/-StevanKz-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/GZ_056)
+[![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40PrabuSupport&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DChizuruSupport&longCache=true%22)](https://t.me/PrabuXSupport)
+<img align="right" alt="prabu rent a gf" height=250 src="https://telegra.ph/file/3eb54e609dae26e3686f8.jpg" />
