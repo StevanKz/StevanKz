@@ -4,8 +4,8 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=stevankz&show_icons=true&theme=radical)](https://github.com/stevankz)
 
-![GitHub followers](https://img.shields.io/github/followers/stevankz?color=aqua&label=Followers&style=for-the-badge)
-![GitHub User's stars](https://img.shields.io/github.com/StevanKz/stars?affiliations=OWNER&color=aqua&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/StevanKz?color=aqua&label=Followers&style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github.com/stars/StevanKz?affiliations=OWNER&color=aqua&style=for-the-badge)
 
 
 
