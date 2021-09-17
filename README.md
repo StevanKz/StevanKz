@@ -9,9 +9,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/StevanKz?color=aqua&label=Followers&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/StevanKz?affiliations=OWNER&color=aqua&style=for-the-badge)
 
-## 💰 **Donations & Support**
+## 💰 **Dukungan nya**
 
-- **Buy me a Ko-fi:**
+- **Beri Dukungan**
 
     <a href='https://saweria.co/HugoProject' target='_blank'><img height='25' style='border:0px;height:36px;' src='https://telegra.ph/file/4500bb484f9c0882a6cd5.png?v=a&w=144' border='0' alt='Buy Me a Coffee at saweria.co' /></a>
 
