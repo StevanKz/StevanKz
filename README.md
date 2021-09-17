@@ -2,6 +2,8 @@
 
 #  🐙 **Github Stats**
 
+![Profile views](https://gpvc.arturio.dev/StevanKz)
+
 [![github stats](https://github-readme-stats.vercel.app/api?username=stevankz&show_icons=true&theme=radical)](https://github.com/stevankz)
 
 ![GitHub followers](https://img.shields.io/github/followers/StevanKz?color=aqua&label=Followers&style=for-the-badge)
