@@ -8,7 +8,6 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=stevankz&show_icons=true&theme=radical)](https://github.com/stevankz)
 
-![GitHub Viewers](https://img.shields.io/github/watchers/StevanKz/StevanKz?label=Profile%20views&style=social)
 
 ## 💰 **Sawernya**
 
