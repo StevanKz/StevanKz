@@ -4,7 +4,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/StevanKz)
 ![GitHub followers](https://img.shields.io/github/followers/StevanKz?style=social)
-         ![GitHub User's stars](https://img.shields.io/github/stars/StevanKz?affiliations=OWNER&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/StevanKz?affiliations=OWNER&style=social)
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=stevankz&show_icons=true&theme=radical)](https://github.com/stevankz)
 
