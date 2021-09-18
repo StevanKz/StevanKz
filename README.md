@@ -8,6 +8,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/StevanKz?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/StevanKz?affiliations=OWNER&style=social)
+![GitHub Viewers](https://img.shields.io/github/watchers/StevanKz/StevanKz?label=Profile%20views&style=social)
 
 ## 💰 **Sawernya**
 
