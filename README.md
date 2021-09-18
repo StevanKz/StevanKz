@@ -7,7 +7,7 @@
 [![github stats](https://github-readme-stats.vercel.app/api?username=stevankz&show_icons=true&theme=radical)](https://github.com/stevankz)
 
 ![GitHub followers](https://img.shields.io/github/followers/StevanKz?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/StevanKz?affiliations=OWNER&style=social)
+         ![GitHub User's stars](https://img.shields.io/github/stars/StevanKz?affiliations=OWNER&style=social)
 ![GitHub Viewers](https://img.shields.io/github/watchers/StevanKz/StevanKz?label=Profile%20views&style=social)
 
 ## 💰 **Sawernya**
