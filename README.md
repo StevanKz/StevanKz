@@ -19,5 +19,6 @@ B
 
 
 **Contact Me:**
-<a href="https://t.me/StevanKz" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+
+[![Contact](https://aleen42.github.io/badges/src/telegram.svg)](https://t.me/StevanKz)
 [![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40HugoSupport&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DHugoSupport&longCache=true%22)](https://t.me/HugoSupport)
