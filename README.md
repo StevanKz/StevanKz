@@ -1,7 +1,7 @@
 ### Halo bro 👋 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/FqBTvSNjNzeZG/giphy.gif">
+  <img src="https://media.giphy.com/media/https://telegra.ph/file/4a0e49b2dfe8fe5b10bbf.mp4/giphy.gif">
 </p>
 https://telegra.ph/file/4a0e49b2dfe8fe5b10bbf.mp4
 
