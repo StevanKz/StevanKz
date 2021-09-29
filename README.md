@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://giphy.com/gifs/3lwsmtk4ONKxjZrxI8">
 </p>
-https://telegra.ph/file/4a0e49b2dfe8fe5b10bbf.mp4
+
 
 #  🐙 **Github Stats**
 
