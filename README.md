@@ -1,6 +1,9 @@
 ### Halo bro 👋 
 
-<p align="center"><img src="https://telegra.ph/file/4a0e49b2dfe8fe5b10bbf.mp4" width="400"></a></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/FqBTvSNjNzeZG/giphy.gif">
+</p>
+https://telegra.ph/file/4a0e49b2dfe8fe5b10bbf.mp4
 
 #  🐙 **Github Stats**
 
