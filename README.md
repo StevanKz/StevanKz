@@ -1,10 +1,5 @@
 ### Halo bro 👋 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3lwsmtk4ONKxjZrxI8/giphy.gif">
-</p>
-
-
 #  🐙 **Github Stats**
 
 ![Profile views](https://gpvc.arturio.dev/StevanKz)
