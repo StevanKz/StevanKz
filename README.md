@@ -10,14 +10,6 @@
 [![github stats](https://github-readme-stats.vercel.app/api?username=stevankz&show_icons=true&theme=radical)](https://github.com/stevankz)
 
 
-## 💰 **Sawernya**
-
-- **Halo kak yang baru mampir jangan lupa kasih saweran nya ya kak!**
-
-    <a href='https://saweria.co/HugoProject' target='_blank'><img height='25' style='border:0px;height:36px;' src='https://telegra.ph/file/4500bb484f9c0882a6cd5.png?v=a&w=144' border='0' /></a>
-
-
-
 **Contact Me:**
 
 [![Contact](https://aleen42.github.io/badges/src/telegram.svg)](https://t.me/GZ_056)
