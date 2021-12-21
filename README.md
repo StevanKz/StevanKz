@@ -4,7 +4,11 @@
 
 ![Profile views](https://gpvc.arturio.dev/StevanKz)
 
-`Santuy`
+sᴋɪʟʟ 
+| `ᴛɪᴅᴜʀ` | `100%`|
+| `ᴘʏʀᴏɢʀᴀᴍ` | `40%` |
+| `ɴᴏᴏʙ` | `100%` |
+
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=stevankz&show_icons=true&theme=radical)](https://github.com/stevankz)
 
