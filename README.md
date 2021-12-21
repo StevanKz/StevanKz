@@ -5,9 +5,11 @@
 ![Profile views](https://gpvc.arturio.dev/StevanKz)
 
 sᴋɪʟʟ 
-| `ᴛɪᴅᴜʀ` | `100%`|
-| `ᴘʏʀᴏɢʀᴀᴍ` | `40%` |
-| `ɴᴏᴏʙ` | `100%` |
+| ------ | ------ |
+| ᴛɪᴅᴜʀ | `100%`|
+| ᴘʏʀᴏɢʀᴀᴍ | `40%` |
+| ɴᴏᴏʙ | `100%` |
+| ᴀᴛᴛɪᴛᴜᴅᴇ | `50%` |
 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=stevankz&show_icons=true&theme=radical)](https://github.com/stevankz)
