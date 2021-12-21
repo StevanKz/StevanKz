@@ -4,12 +4,13 @@
 
 ![Profile views](https://gpvc.arturio.dev/StevanKz)
 
-#### sᴋɪʟʟ 
+| Skill | Nilai |
 | ------ | ------ |
-| ᴛɪᴅᴜʀ | `100%`|
-| ᴘʏʀᴏɢʀᴀᴍ | `40%` |
-| ɴᴏᴏʙ | `100%` |
-| ᴀᴛᴛɪᴛᴜᴅᴇ | `50%` |
+| Tidur | `100%` |
+| Coli | `100%`|
+| Noob | `100%` |
+| Attitude | `50%` |
+| Dingin | `60%` |
 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=stevankz&show_icons=true&theme=radical)](https://github.com/stevankz)
