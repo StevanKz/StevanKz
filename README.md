@@ -4,7 +4,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/StevanKz)
 
-sᴋɪʟʟ 
+#### sᴋɪʟʟ 
 | ------ | ------ |
 | ᴛɪᴅᴜʀ | `100%`|
 | ᴘʏʀᴏɢʀᴀᴍ | `40%` |
